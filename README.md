@@ -2,11 +2,11 @@
 ### Aim
 ##### Develop easy to use and fun web applications
 ### Web Applications
-#### [My Balance]
+#### [My Balance](http://bochackathon.mybluemix.net/mybalance)
 The user can check their balance
 #### [Closest ATM](http://bochackathon.mybluemix.net/map)
 Find your nearest ATM
-#### [Product finder w/ Visual Recognition]()
+#### [Product finder w/ Visual Recognition](http://bochackathon.mybluemix.net/people)
 Offers loan and credit card options based on the depicted person/people’s  age and celebrity status.
 ### Upcoming Features
 ###### Develop a mobile application that will use the web applications and redirect them to the app itself
